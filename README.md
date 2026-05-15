@@ -1,1 +1,1 @@
-!["CiberCodes/CiberCodes/banner.png"](banner.png)
+!["https://github.com/CiberCodes/CiberCodes/tree/main/banner.png"](banner.png)
